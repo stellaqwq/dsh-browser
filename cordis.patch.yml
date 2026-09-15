@@ -1,0 +1,4 @@
+# dsh bundle layer: mount the browser automation plugin.
+- insert:
+    - id: dsh-browser
+      name: 'dsh-browser'
